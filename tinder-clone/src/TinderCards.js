@@ -8,7 +8,7 @@ function TinderCards() {
     {
       name: "Elon Musk",
       url:
-        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F41Gr%2BplCXTL.jpg&f=1&nofb=1",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.estrategiaynegocios.net%2Fcsp%2Fmediapool%2Fsites%2Fdt.common.streams.StreamServer.cls%3FSTREAMOID%3D8m9GvGM1ggGjC31mHEtEgc%24daE2N3K4ZzOUsqbU5sYv9Y0bpvn4CelVYksY06CmM6FB40xiOfUoExWL3M40tfzssyZqpeG_J0TFo7ZhRaDiHC9oxmioMlYVJD0A%243RbIiibgT65kY_CSDiCiUzvHvODrHApbd6ry6YGl5GGOZrs-%26CONTENTTYPE%3Dimage%2Fjpeg&f=1&nofb=1",
     },
     {
       name: "Jeff Bezos",
