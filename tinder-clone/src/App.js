@@ -1,11 +1,10 @@
+import React from "react";
 import Header from "./Header";
 import "./styles/App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>MERN TINDER CLONE</h1>
-
       <Header />
       {/** TinderCards */}
       {/** SwipeButtons */}
