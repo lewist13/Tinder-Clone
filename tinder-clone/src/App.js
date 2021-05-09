@@ -1,3 +1,4 @@
+import Header from "./Header";
 import "./styles/App.css";
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
     <div className="App">
       <h1>MERN TINDER CLONE</h1>
 
-      {/** Header */}
+      <Header />
       {/** TinderCards */}
       {/** SwipeButtons */}
     </div>
