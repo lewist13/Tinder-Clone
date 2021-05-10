@@ -1,5 +1,6 @@
 const express = require("express");
 const mongoose = require("mongoose");
+const cors = require("cors");
 const Cards = require("./schemas/dbCards");
 
 // App Config
@@ -7,7 +8,8 @@ const app = express();
 const port = process.env.PORT || 3001;
 const connection_url = `mongodb+srv://admin:3oKo7Fc3hFMmxLx7@cluster0.mpslv.mongodb.net/tinderdb?retryWrites=true&w=majority`;
 // Middlewares
-
+app.use(express.json());
+app.use(cors());
 // DB config
 mongoose.connect(connection_url, {
   useNewUrlParser: true,
